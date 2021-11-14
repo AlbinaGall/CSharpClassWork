@@ -228,7 +228,7 @@ namespace CSharpSandBox_1
                 Console.WriteLine($"{ elem}");
             }
             Console.WriteLine();*/
-
+            //-------------------------------
             //Треугольный двумерный массив (зубчатые)
             int[][] arr = new int[3][];//создано 3 пустые строки
             arr[0] = new int[1];
